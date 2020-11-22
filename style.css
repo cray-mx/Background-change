@@ -23,5 +23,8 @@ h3 {
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
+}
 
+h2{
+    font-family: 'Courier New', Courier, monospace;
 }
